@@ -13,7 +13,7 @@ curl -fsSL https://raw.githubusercontent.com/cameronsjo/setup/main/sync-claude.s
 or
 
 ```bash
-curl -fsSL https://setup.sjo.lol/ync-claude.sh | bash
+curl -fsSL https://setup.sjo.lol/aync-claude.sh | bash
 ```
 
 ### What it does
