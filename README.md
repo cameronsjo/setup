@@ -10,6 +10,12 @@ Install and sync Claude Code plugins from public marketplaces.
 curl -fsSL https://raw.githubusercontent.com/cameronsjo/setup/main/sync-claude.sh | bash
 ```
 
+or
+
+```bash
+curl -fsSL https://setup.sjo.lol/ync-claude.sh | bash
+```
+
 ### What it does
 
 1. Registers plugin marketplaces (official, beads, workbench)
